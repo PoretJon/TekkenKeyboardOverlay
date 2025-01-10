@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="images">
+    <file>1.png</file>
+    <file>2.png</file>
+    <file>3.png</file>
+    <file>4.png</file>
+    <file>base overlay.png</file>
+    <file>down.png</file>
+    <file>heat.png</file>
+    <file>left.png</file>
+    <file>rage.png</file>
+    <file>right.png</file>
+    <file>up.png</file>
+  </qresource>
+</RCC>
